@@ -56,9 +56,3 @@ To address potential confounding, we employ **Double Machine Learning**.
 
 ---
 
-## 🛠️ How to Use This Repository
-
-### 📥 Clone the Repository
-
-```bash
-git clone [your-repository-url]
